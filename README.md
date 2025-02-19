@@ -7,6 +7,7 @@ In this project, I used SQL to investigate and locate missing packages reported 
 
 
 🔍 Case Files (Solution provided in the answer file):
+
 1️⃣ The Lost Letter – A heartfelt letter sent to a friend, but did it arrive?
 
 2️⃣ The Devious Delivery – A mysterious package with no return address. Can we find it?
